@@ -5,7 +5,7 @@ Allows you to manage default backgrounds in macOS
 
 To get this script working, you need:
 
-Python 3 (I used Python 3.6.8), download it on https://www.python.org/downloads/mac-osx/
+Python 3 (I use Python 3.6.8), download it on https://www.python.org/downloads/mac-osx/
 
 Here are the dependencies to install with pip:
 

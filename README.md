@@ -7,16 +7,6 @@ To get this script working, you need:
 
 Python 3 (I use Python 3.6.8), download it at https://www.python.org/downloads/mac-osx/
 
-Here are the dependencies that you need to install with pip:
-
-* plistlib
-
-To install it, type this command in the terminal:
-
-```
-pip3 install --upgrade plistlib
-```
-
 ## Add default backgrounds
 
 To add backgrounds, use the ``adddefaultbackground.py`` script.

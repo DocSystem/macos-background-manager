@@ -5,7 +5,7 @@ Allows you to manage default backgrounds in macOS
 
 To get this script working, you need:
 
-Python 3 (I use Python 3.6.8), download it at https://www.python.org/downloads/mac-osx/
+* Python 3 (I use Python 3.6.8), download it at https://www.python.org/downloads/mac-osx/
 
 ## Add default backgrounds
 
@@ -22,3 +22,7 @@ macOS supports heic, png and jpg for default backgrounds.
 ## Remove default backgrounds
 
 The script isn't ready yet! This part will be updated once the script will be ready!
+
+# Warning
+
+This script was tested in macOS Catalina with SIP disabled! If you have any problem with it, create an issue.

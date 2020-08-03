@@ -5,13 +5,13 @@ Allows you to manage default backgrounds in macOS
 
 To get this script working, you need:
 
-Python 3 (I use Python 3.6.8), download it on https://www.python.org/downloads/mac-osx/
+Python 3 (I use Python 3.6.8), download it at https://www.python.org/downloads/mac-osx/
 
-Here are the dependencies to install with pip:
+Here are the dependencies that you need to install with pip:
 
 * plistlib
 
-To install them, type this command in the terminal:
+To install it, type this command in the terminal:
 
 ```
 pip3 install --upgrade plistlib

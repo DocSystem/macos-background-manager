@@ -9,13 +9,12 @@ Python 3 (I use Python 3.6.8), download it on https://www.python.org/downloads/m
 
 Here are the dependencies to install with pip:
 
-* shutil
 * plistlib
 
 To install them, type this command in the terminal:
 
 ```
-pip3 install --upgrade shutil plistlib
+pip3 install --upgrade plistlib
 ```
 
 ## Add default backgrounds

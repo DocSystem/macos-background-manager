@@ -6,6 +6,7 @@ Allows you to manage default backgrounds in macOS
 To get this script working, you need:
 
 * Python 3 (I use Python 3.6.8), download it at https://www.python.org/downloads/mac-osx/
+* Admin rights
 
 ## Add default backgrounds
 
@@ -14,7 +15,7 @@ To add backgrounds, use the ``adddefaultbackground.py`` script.
 Here is how to use it:
 
 ```
-python3 adddefaultbackground.py backgroundfile.heic
+sudo python3 adddefaultbackground.py backgroundfile.heic
 ```
 
 macOS supports heic, png and jpg for default backgrounds.
